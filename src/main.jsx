@@ -9,10 +9,12 @@ import { createRoot } from 'react-dom/client'
 // import MyCustComp from './Nv_lab/31-12-2024/propsexmp3'
 // import Purefunc1 from "./Nv_lab/31-12-2024/purefunc1"
 // import MyCustButton from './Nv_lab/31-12-2024/purefunc2'
-import HookExmp from './Nv_lab/31-12-2024/hookexmp1'
+// import HookExmp from './Nv_lab/31-12-2024/hookexmp1'
+// import StateExmp2 from './Nv_lab/6-1-2025/hookexmp2'
+import StateExmp3 from './Nv_lab/6-1-2025/hookexmp3'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-   <HookExmp />    
+   <StateExmp3 />    
   </StrictMode>,
 )
