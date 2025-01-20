@@ -11,10 +11,18 @@ import { createRoot } from 'react-dom/client'
 // import MyCustButton from './Nv_lab/31-12-2024/purefunc2'
 // import HookExmp from './Nv_lab/31-12-2024/hookexmp1'
 // import StateExmp2 from './Nv_lab/6-1-2025/hookexmp2'
-import StateExmp3 from './Nv_lab/6-1-2025/hookexmp3'
+// import StateExmp3 from './Nv_lab/6-1-2025/hookexmp3'
+// import CharacterCount from './Nv_lab/7-1-2025/exmp4'
+// import EmailValidator from './Nv_lab/7-1-2025/exmp2'
+// import ToggleText from './Nv_lab/7-1-2025/exmp3'
+// import Exce1 from './Nv_lab/7-1-2025/exmp1'
+// import ClassExercise from './Nv_lab/7-1-2025/exercise1'
+// import App from './Nv_lab/App'
+// import ClassExercise from './Nv_lab/7-1-2025/exercise1'
+import ImageChanger from './Nv_lab/20-1-2025/image'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-   <StateExmp3 />    
+   <ImageChanger />    
   </StrictMode>,
 )
