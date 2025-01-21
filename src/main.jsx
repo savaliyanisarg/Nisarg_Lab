@@ -19,10 +19,14 @@ import { createRoot } from 'react-dom/client'
 // import ClassExercise from './Nv_lab/7-1-2025/exercise1'
 // import App from './Nv_lab/App'
 // import ClassExercise from './Nv_lab/7-1-2025/exercise1'
-import ImageChanger from './Nv_lab/20-1-2025/image'
+// import ImageChanger from './Nv_lab/20-1-2025/image'
+// import CancaleRequest from './21-1-2025/cleanup'
+// import CustomRequest from './21-1-2025/compo1'
+// import CustomComp from './21-1-2025/compo1'
+import RegistrationForm from './21-1-2025/ragistration'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-   <ImageChanger />    
+   <RegistrationForm />    
   </StrictMode>,
 )
