@@ -1,0 +1,6 @@
+1.create a controlled input which allows only alphanumeric characters if user input any special characters then remove the special characters (useState)
+2.create a to do list with the help of the usestate. allows user to remove completed task using task number.(useState => Array) 2 textbox First textbox will allows user to add task, second textbox will allow user to remove completed task using task number. 2 button will be shown one for add one for remove
+3.create a color picker with the help of the usestate which will update the color of background color for a paragraph and another color picker will be shown user to change the color of a paragraph
+4.implement day and night theming with help of the useState and switch.
+5.implement pagination eith the help of thr useState. create a static array of the size 25 and display 5 buttons. when user click on button 1,display items 1 to 5, button2 -> items 6 to 10, button3 -> items 11 to 15....
+6.Implement content finder with the help of useState.whenever user type into searchbox it will show all items of the list which contain that content. Allow user to add text items into list using text box and add button.
